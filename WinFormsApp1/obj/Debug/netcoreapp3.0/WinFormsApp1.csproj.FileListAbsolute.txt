@@ -1,0 +1,12 @@
+D:\ProgramData\VisualStudio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.csproj.AssemblyReference.cache
+D:\ProgramData\VisualStudio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.FormHistory.resources
+D:\ProgramData\VisualStudio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.Form1.resources
+D:\ProgramData\VisualStudio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.FormAccount.resources
+D:\ProgramData\VisualStudio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.FormNow.resources
+D:\ProgramData\VisualStudio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.Properties.Resources.resources
+D:\ProgramData\VisualStudio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.TestForm.resources
+D:\ProgramData\VisualStudio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.csproj.GenerateResource.cache
+D:\ProgramData\VisualStudio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramData\VisualStudio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.AssemblyInfoInputs.cache
+D:\ProgramData\VisualStudio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.AssemblyInfo.cs
+D:\ProgramData\VisualStudio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.csproj.CoreCompileInputs.cache
